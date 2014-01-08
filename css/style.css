@@ -3,7 +3,24 @@ body {
 	font-family: arial;
 }
 
+/* Navigation */
+a{
+	font-size: 24px;
+	color: white;
+	text-decoration: none;
+}
 img {
 width: 300px;
 
 }
+
+#leftcol {
+	background: red;
+	width: 500px
+}
+
+#rightcol {
+	background: blue;
+	width: 400px;
+}
+

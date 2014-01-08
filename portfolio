@@ -2,20 +2,6 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<title>Portfolio</title>
 </head>
 <body>
-
-	<h1>Rafael L. Nogueira</h1>
-
-<nav>
-		<ul>
-			<li><a href="index.html">Home</a></li>
-			<li><a href="resume.html">Resume</a></li>
-			<li><a href="">Portfolio</a></li>
-		</ul>
-</nav>
-
-	
-</body>
-</html>
